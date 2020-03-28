@@ -1,0 +1,1 @@
+docker build . -t s50600822/airflow:00.4
